@@ -172,7 +172,6 @@ span {
     font-weight: 900;
     font-size: 44px;
     width: 696px;
-    ;
     line-height: 1.36;
     /* text-align: center; */
     letter-spacing: 0.06em;
@@ -238,6 +237,7 @@ span {
     line-height: 1.71;
     max-width: 270px;
     margin-top: 0px;
+    color: var(--contacts-color);
 }
 
 /* -------------------------------------direction--------------------------------------- */
@@ -335,6 +335,8 @@ span {
     line-height: 1.19;
     text-align: center;
     margin-top: 0px;
+    color: var(--contacts-color);
+
 }
 
 /* ---------------------------------------FOOTER----------------------------------- */
@@ -434,7 +436,7 @@ footer {
 }
 
 .services-list {
-    margin-bottom: 34px;
+    margin-bottom: 50px;
 }
 
 .examples-title {
@@ -457,6 +459,7 @@ footer {
 .about-examles {
     padding: 20px 24px;
     /* padding-bottom: 20px; */
+    border: 1px solid #EEEEEE;
 
 }
 
